@@ -1,0 +1,16 @@
+Metric,Category,Target,Current Value,Variance,Notes,Frequency
+Monthly Recurring Revenue (MRR),Revenue,$25,000,$18,500,$-6,500,Focus on enterprise upsells,Monthly
+Customer Acquisition Cost (CAC),Growth,$150,$200,+$50,High due to paid ads experiment,Monthly
+Lifetime Value (LTV),Revenue,$1,200,$950,$-250,Improve retention to increase,Quarterly
+LTV:CAC Ratio,Growth,4.0,4.75,+0.75,Healthy ratio,Monthly
+Churn Rate,Retention,5%,7.2%,+2.2%,Onboarding issues causing early churn,Monthly
+Monthly Active Users (MAU),Engagement,1,250,890,-360,Need better activation flow,Monthly
+Average Revenue Per User (ARPU),Revenue,$45,$38,$-7,Consider tiered pricing,Monthly
+Customer Retention Cost (CRC),Retention,$25,$30,+$5,Invest in customer success,Monthly
+Burn Rate,Finance,$8,000,$12,500,+$4,500,Reduce AWS costs,Monthly
+Runway (months),Finance,18,8.4,-9.6,Need Series A or profitability,Monthly
+Gross Margin,Profitability,80%,72%,-8%,Optimize cloud infrastructure,Monthly
+Net Promoter Score (NPS),Satisfaction,40,32,-8,Improve support response time,Quarterly
+Product Qualified Leads (PQLs),Growth,150,89,-61,Improve free-to-paid conversion,Monthly
+Activation Rate,Engagement,40%,28%,-12%,Improve onboarding tutorial,Monthly
+Feature Adoption Rate,Engagement,60%,45%,-15%,Drive adoption of new AI features,Monthly
